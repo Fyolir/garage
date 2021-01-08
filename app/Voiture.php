@@ -2,7 +2,7 @@
 
 namespace App;
 
-class Car
+class Voiture
 {
     public string $name;
 
